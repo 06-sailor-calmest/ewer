@@ -2,9 +2,7 @@
 logs
 *.log
 npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-lerna-debug.log*
+this is what is add and what about you
 .pnpm-debug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
